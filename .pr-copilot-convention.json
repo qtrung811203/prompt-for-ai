@@ -1,0 +1,19 @@
+{
+  "branch": {
+    "prefixes": {
+      "bug": "fix",
+      "refactor": "refactor",
+      "default": "feat"
+    },
+    "template": "{prefix}/{ticketKey}-{slug}"
+  },
+  "pr": {
+    "titleTemplate": "[{ticketKey}] {type}: {summary}",
+    "descriptionSections": [
+      "What",
+      "Why",
+      "Key Changes",
+      "Breaking Changes"
+    ]
+  }
+}
