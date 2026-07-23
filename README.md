@@ -9,6 +9,7 @@ Kho lưu trữ **các prompt (lời nhắc) dùng cho AI** — Claude, ChatGPT, 
 | File | Mục đích |
 |------|----------|
 | [deep-understanding-tutor.md](deep-understanding-tutor.md) | Biến AI thành gia sư dạy hiểu sâu — đảm bảo người học thực sự nắm vững thay vì học vẹt. |
+| [pr-reviewer.md](pr-reviewer.md) | Chuyên gia đánh giá tự động mã nguồn (Pull Request Reviewer) trước khi merge để đảm bảo chất lượng code và bảo mật. |
 
 > Danh sách sẽ được bổ sung dần khi có thêm prompt mới.
 
